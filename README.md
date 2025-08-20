@@ -15,39 +15,36 @@ An interactive PowerBI dashboard can be downloaded https://github.com/zeldaamth/
 The analysis of Superstore’s 2014 - 2017 performance reveals that overall sales were largely driven by Technology and Furniture, with Phones and Chairs as the top-performing sub-categories. California led as the state with the highest sales, followed by New York, Texas, and Washington. While sales show positive growth, profit margins are inconsistent due to varying discount levels and product profitability. Discounts above 20% significantly reduce profit margins, highlighting the need for a more strategic discount policy. Furthermore, the Consumer segment contributed the largest sales volume, while the Corporate segment provided steadier profitability.
 
 Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. 
-<img width="795" height="451" alt="image" src="https://github.com/user-attachments/assets/ebaaf01f-69fd-45c7-9aa7-0258c7fab155" />
+<img width="800" height="455" alt="image" src="https://github.com/user-attachments/assets/379493c3-f49b-4d00-819f-6c2903b201ff" />
+
 
 ### 1. Sales
+<img width="800" height="455" alt="image" src="https://github.com/user-attachments/assets/9561a973-bedc-4bd3-9adb-0bf6d5582c84" />
 
-Findings: Sales were strongest in Technology and Furniture, with seasonal peaks in certain months.
+- The company's sales peaked in November 2017 with 459 orders totaling $118,447.83. Similar upward trends were observed in November 2014, November 2015, and December 2016, suggesting strong seasonal demand during the year-end holiday period..
+  
+- Starting from February 2014, total sales dropped to 46 orders amounting to $4,519.89, representing a 68% decline from $14,236.90 in the previous month. This recurring downward trend was also evident in February 2015, January 2016, and January 2017.
 
-Implication: Targeted campaigns during peak periods could further boost revenue.
+-  Seasonal patterns significantly influence sales performance, with strong peaks during year-end months. This indicates that demand forecasting and targeted promotional campaigns should be concentrated around holiday seasons to maximize revenue. Meanwhile, early-year periods consistently show weaker sales performance, suggesting a post-holiday slowdown. Strategic interventions such as early-year discounts, bundled offers, or targeted marketing campaigns could help mitigate these seasonal declines.
+  
+### 2. Customer Segments
+<img width="403" height="256" alt="image" src="https://github.com/user-attachments/assets/3866bbfa-ff03-4f87-9746-833fa001e429" />
 
-Opportunity: Expand presence in underperforming regions to diversify sales sources.
+- Consumers account for the largest share of total sales at $1.16M (50%), followed by Corporate customers with $0.71M (30.74%), and Home Office with $0.43M (18.7%).
 
-### 2. Profit
+### 3. Product Performance
+<img width="513" height="194" alt="image" src="https://github.com/user-attachments/assets/d9a4298d-a54e-4d96-b886-9ea40e71a7f7" />
 
-Findings: Technology remains the most profitable category, while Furniture lags due to high costs and discount reliance.
-
-Implication: Pricing adjustments are needed in Furniture to enhance profitability.
-
-Opportunity: Focus on growing Technology sales to sustain healthy margins.
-
-### 3. Customer Segments
-
-Findings: Consumers drive the largest sales, but Corporate and Home Office provide more stable profits.
-
-Implication: Corporate customers are less sensitive to discounts, making them more reliable for margin protection.
-
-Opportunity: Develop tailored loyalty programs for Corporate and Home Office customers.
+- 50,79% 
 
 ### 4. Discount Impact on Profitablity
+<img width="800" height="455" alt="image" src="https://github.com/user-attachments/assets/16b21b3f-ab37-4d7f-9375-3b018535cde7" />
 
-Findings: Discounts above 20% consistently erode profitability.
+The discount program analysis at Superstore reveals that offering discounts greater than 20% demonstrates a negative correlation with sales profit. Specifically, discounts exceeding this threshold consistently result in negative profitability.
 
-Implication: Excessive discounting undermines sales growth.
+### 4. State and Regional Comparisons
+<img width="506" height="293" alt="image" src="https://github.com/user-attachments/assets/0c6c737c-46d9-4898-b9e1-5ed87199090a" />
 
-Opportunity: Implement data-driven discount thresholds to balance sales volume and profitability.
 
 ## ✅ Recommendations
 

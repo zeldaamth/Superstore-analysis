@@ -56,8 +56,10 @@ Superstore’s customer base is divided into three primary segments: Consumers, 
 The discount program analysis at Superstore reveals that offering discounts greater than 20% demonstrates a negative correlation with sales profit. Specifically, discounts exceeding this threshold consistently result in negative profitability.
 
 ### 4. State and Regional Comparisons
-<img width="506" height="293" alt="image" src="https://github.com/user-attachments/assets/0c6c737c-46d9-4898-b9e1-5ed87199090a" />
+<img width="800" height="455" alt="image" src="https://github.com/user-attachments/assets/0c6c737c-46d9-4898-b9e1-5ed87199090a" />
 
+- In October 2016, sales exhibited a downward trend across all regions, including Central, East, West, and South
+- 
 
 ## ✅ Recommendations
 

@@ -33,17 +33,17 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 Superstore’s customer base is divided into three primary segments: Consumers, Corporate, and Home Office. Among these, Consumers contribute the largest share of total sales at $1.16M (50%). Corporate customers follow with $0.71M (30.74%), while the Home Office segment accounts for $0.43M (18.7%).
 
 ### 3. Product Performance
-# Top 5 Product By Sales
+### Top 5 Product By Sales
 <img width="800" height="455" alt="image" src="https://github.com/user-attachments/assets/34a305cf-4549-4674-9b13-60d46c7376b1" />
 
 - The Canon ImageClass 2200 Advanced Copier leads as the top-selling product, generating $61,592.82 in total sales across 11 orders. It is followed by the Fellowes PB500 Electric Punch Binding, Cisco Telepresence System, HON 5400 Series Task Chair, and the GBC Docubind TL300 Electric Binding System.
 
-# Top 5 Product By Profit
+### Top 5 Product By Profit
 <img width="800" height="455" alt="image" src="https://github.com/user-attachments/assets/ee13e465-a5d9-4f0c-b86a-1756cab658a6" />
 
 -  The Canon ImageClass 2200 Advanced Copier also ranks as the top profit-generating product, contributing $25,199.93 in total profits. It is followed by the Fellowes PB500 Electric Punch Binding, Hewlett Packard LaserJet 3310 Copier, Canon PC1060 Personal Laser Copier, and the HP DesignJet T520 Inkjet. Notably, most of the top profit-driving products fall within the Technology category, particularly within the Copier sub-category
   
-# Profit By Product & Product - Sub Categories
+### Profit By Product & Product - Sub Categories
 <img width="800" height="455" alt="image" src="https://github.com/user-attachments/assets/d9a4298d-a54e-4d96-b886-9ea40e71a7f7" />
 
 

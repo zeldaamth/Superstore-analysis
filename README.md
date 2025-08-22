@@ -28,9 +28,9 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 -  Seasonal patterns significantly influence sales performance, with strong peaks during year-end months. This indicates that demand forecasting and targeted promotional campaigns should be concentrated around holiday seasons to maximize revenue. Meanwhile, early-year periods consistently show weaker sales performance, suggesting a post-holiday slowdown. Strategic interventions such as early-year discounts, bundled offers, or targeted marketing campaigns could help mitigate these seasonal declines.
   
 ### 2. Customer Segments
-<img width="800" height="455" alt="image" src="https://github.com/user-attachments/assets/3866bbfa-ff03-4f87-9746-833fa001e429" />
+<img width="800" height="455" alt="image" src="https://github.com/user-attachments/assets/0790191f-31fe-4041-8bbe-e64be0b36ec0" />
 
-Superstore’s customer base is divided into three primary segments: Consumers, Corporate, and Home Office. Among these, Consumers contribute the largest share of total sales at $1.16M (50%). Corporate customers follow with $0.71M (30.74%), while the Home Office segment accounts for $0.43M (18.7%).
+Superstore’s customer base is divided into three primary segments: Consumers, Corporate, and Home Office. Among these, Consumers contribute the largest share of total sales at $1.16M (50%). Corporate customers follow with $0.71M (30.74%), while the Home Office segment accounts for $0.43M (18.7%). Total order also leads by Consumer with 2868 total order, followed with Corporate with 1701 and Home Office with 1016 total order.
 
 ### 3. Product Performance
 ### Top 5 Product By Sales

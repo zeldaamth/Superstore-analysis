@@ -44,7 +44,7 @@ Superstore’s customer base is divided into three primary segments: Consumers, 
 -  The Canon ImageClass 2200 Advanced Copier also ranks as the top profit-generating product, contributing $25,199.93 in total profits. It is followed by the Fellowes PB500 Electric Punch Binding, Hewlett Packard LaserJet 3310 Copier, Canon PC1060 Personal Laser Copier, and the HP DesignJet T520 Inkjet. Notably, most of the top profit-driving products fall within the Technology category, particularly within the Copier sub-category
   
 ### Total Order By Product Categories & Sub-categories
-<img width="527" height="201" alt="image" src="https://github.com/user-attachments/assets/f92ac774-1f6b-43d6-9199-52d5a53d6bcf" />
+<img width="800" height="455" alt="image" src="https://github.com/user-attachments/assets/f92ac774-1f6b-43d6-9199-52d5a53d6bcf" />
 
 - Based on total order volume, Office Supplies ranks as the leading product category, followed by Furniture and Technology. Office Supplies leads significantly with a total of 6,026 orders, underscoring its consistent demand across customers.
 - Within product subcategories, the top five in terms of total orders are Binders, Paper, Furnishings, Phones, and Storage. Binders dominate at the subcategory level, recording 1,523 orders, reflecting their essential role in everyday business operations.

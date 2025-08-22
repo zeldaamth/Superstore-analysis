@@ -12,7 +12,7 @@ An interactive PowerBI dashboard can be downloaded https://github.com/zeldaamth/
 
 ## 📈 Executive Summary
 
-The analysis of Superstore’s 2014 - 2017 performance reveals that overall sales were largely driven by Technology and Furniture, with Phones and Chairs as the top-performing sub-categories. California led as the state with the highest sales, followed by New York, Texas, and Washington. While sales show positive growth, profit margins are inconsistent due to varying discount levels and product profitability. Discounts above 20% significantly reduce profit margins, highlighting the need for a more strategic discount policy. Furthermore, the Consumer segment contributed the largest sales volume, while the Corporate segment provided steadier profitability.
+The analysis of Superstore’s performance highlights clear seasonal sales patterns, with strong peaks during year-end holidays and consistent slowdowns at the beginning of the year. Consumers represent the largest customer segment, while office-related products, especially binders and supplies, dominate order volume. Technology products, particularly copiers, contribute significantly to profitability, underscoring their high-margin potential. Discounting above 20% consistently erodes profit, indicating the need for a structured pricing strategy. Regionally, the East leads overall sales and orders, followed by the West, emphasizing opportunities to strengthen performance in underperforming regions.
 
 Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. 
 <img width="800" height="455" alt="image" src="https://github.com/user-attachments/assets/379493c3-f49b-4d00-819f-6c2903b201ff" />
@@ -62,12 +62,9 @@ Superstore’s customer base is divided into three primary segments: Consumers, 
 - In September, sales trends indicated an upward trajectory with total sales reaching $76,883.41 in the Central region, $107,412.37 in the East, $43,076.79 in the South, and $80,327.00 in the West. However, in October, sales declined across all regions: the Central region fell by 29.9% to $53,920.93, the East dropped by 41.7% to $62,617.82, the South decreased by 43.8% to $24,201.67, and the West declined by 25.8% to $59,582.57.
 - Based on total orders and sales, the East region recorded the highest performance, followed by the West region.
 
-## ✅ Recommendations
-
-Focus on expanding profitable categories like Technology.
-
-Reevaluate discount policies by introducing optimal discount thresholds.
-
-Enhance customer loyalty initiatives, especially for Corporate clients.
-
-Diversify sales by strengthening marketing efforts in underperforming regions.
+## Recommendations:
+Based on the uncovered insights, the following recommendations have been provided:
+- Cap discounts at 20%, since higher reductions consistently resulted in negative profits. Simulate scenarios; a 20% discount maintains profitability, while a 30%+ discount flips profit negative. Therefore, recommend **applying tiered discounts (10–20%) based on customer loyalty** or volume rather than blanket promotions.
+- Since sales peaked in November 2017 ($118,447.83, 459 orders) and showed similar spikes in previous years, **allocate at least 25–30% of annual marketing spend toward Q4 campaigns**. **Launch holiday promotions 1–2 months earlier** (October–November) to capture peak demand and maximize revenue.
+- Address October 2016 regional declines (East −54.3%, South −36.1%, Central −35.4%, West −32.7%) with region-specific early Q4 campaigns. Since the East region leads sales ($107,412.37 in September), **allocate ~40% of regional marketing budget** there, **while investing 25% in West, 20% in Central, 15% in South to balance performance**.
+- Office Supplies (6,026 orders) and Binders (1,523 orders) drive the highest volume; ensure +15–20% inventory buffer during peak months to avoid stockouts. **Promote high-margin technology products** (e.g., copiers with $25,199.93 profit) by **bundling them with office supplies to cross-sell and boost profit per transaction**.

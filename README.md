@@ -53,7 +53,7 @@ Superstore’s customer base is divided into three primary segments: Consumers, 
 ### 4. Discount Impact on Profitablity
 <img width="800" height="455" alt="image" src="https://github.com/user-attachments/assets/16b21b3f-ab37-4d7f-9375-3b018535cde7" />
 
-The discount program analysis at Superstore reveals that offering discounts greater than 20% demonstrates a negative correlation with sales profit. Specifically, discounts exceeding this threshold consistently result in negative profitability.
+- The discount program analysis at Superstore shows that discounts above 20% consistently result in negative profitability, highlighting the risks of excessive price reductions. In contrast, a 20% discount emerges as the optimal threshold, balancing sales growth with margin protection. This suggests that adopting a structured discount strategy capping discounts at 20% while tailoring offers to products, customer segments, or seasonal demand can help maximize revenue and sustain long-term profitability.
 
 ### 4. State and Regional Comparisons
 <img width="800" height="455" alt="image" src="https://github.com/user-attachments/assets/9fc84999-4466-4c46-8722-c71cc845d4a2" />

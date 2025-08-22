@@ -56,10 +56,11 @@ Superstore’s customer base is divided into three primary segments: Consumers, 
 The discount program analysis at Superstore reveals that offering discounts greater than 20% demonstrates a negative correlation with sales profit. Specifically, discounts exceeding this threshold consistently result in negative profitability.
 
 ### 4. State and Regional Comparisons
-<img width="800" height="455" alt="image" src="https://github.com/user-attachments/assets/0c6c737c-46d9-4898-b9e1-5ed87199090a" />
+<img width="800" height="455" alt="image" src="https://github.com/user-attachments/assets/9fc84999-4466-4c46-8722-c71cc845d4a2" />
 
-- In October 2016, sales exhibited a downward trend across all regions, including Central, East, West, and South
-- 
+- In 2016, the total number of orders per region showed a significant decline from September to October. The Central region decreased by 35.4% (from 291 to 188 orders), the East region experienced the sharpest drop of 54.3% (from 449 to 205 orders), the South region declined by 36.1% (from 202 to 129 orders), and the West region fell by 32.7% (from 441 to 297 orders).
+- In September, sales trends indicated an upward trajectory with total sales reaching $76,883.41 in the Central region, $107,412.37 in the East, $43,076.79 in the South, and $80,327.00 in the West. However, in October, sales declined across all regions: the Central region fell by 29.9% to $53,920.93, the East dropped by 41.7% to $62,617.82, the South decreased by 43.8% to $24,201.67, and the West declined by 25.8% to $59,582.57.
+- Based on total orders and sales, the East region recorded the highest performance, followed by the West region.
 
 ## ✅ Recommendations
 
